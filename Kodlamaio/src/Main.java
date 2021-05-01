@@ -29,6 +29,7 @@ public class Main {
 		instructorManager.update(instructor1);
 		instructorManager.delete(instructor1);
 		
+		System.out.println("-----------------------------------------");
 
 	}
 
